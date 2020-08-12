@@ -4,6 +4,6 @@ namespace TestSolution
 {
     public class Class1
     {
-        private int value = 3;
+        private int value = 4;
     }
 }
